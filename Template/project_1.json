@@ -1,0 +1,9 @@
+{
+    "project": {
+        "name": "PROJECT_NAME", 
+        "logo": "URL_TO_LOGO",
+        "link": "URL_TO_PROJECT",
+        "category": "PROJECT_CATEGORY",
+        "description": "PROJECT_DESCRIPTION"
+    }
+}
